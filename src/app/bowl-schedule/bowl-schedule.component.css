@@ -1,0 +1,20 @@
+th{
+  font-size: 22px;
+  background-color: #193563;
+  color: white;
+}
+
+table{
+  width:100%;
+  border-collapse: collapse;
+  border: black 2px solid;
+  
+}
+
+th, td {
+  padding: 15px;
+  border-bottom: 1px solid rgb(71, 71, 71);
+}
+
+tr:hover {background-color: yellow !important;}
+tr:nth-child(even) {background-color: #d8e3f5;}
